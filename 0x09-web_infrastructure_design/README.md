@@ -9,5 +9,6 @@ This project is a collection of web infrastructure designs that could be impleme
 
 + Distributed web infrastructure - [details](1-distributed_web_infrastructure.md)
 
-+ [Secured_and_monitored_web_infrastrucure](./details)
++ Secured and monitored web infrastrucure - [details](2-secured_and_monitored_web_infrastructure.md)
+
 + [Scaled_up_web_infrastructure-] (./details)
