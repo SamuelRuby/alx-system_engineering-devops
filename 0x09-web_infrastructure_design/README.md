@@ -11,4 +11,4 @@ This project is a collection of web infrastructure designs that could be impleme
 
 + Secured and monitored web infrastructure - [details](2-secured_and_monitored_web_infrastructure.md)
 
-+ [Scaled_up_web_infrastructure-] (./details)
++ Scaled up web infrastructure - [details](3-scale_up.md)
