@@ -25,3 +25,4 @@ This is a distributed web infrastructure that atttempts to reduce the traffic to
 + Security issues.<br/>The data transmitted over the network isn't encrypted using an SSL certificate so hackers can spy on the network. There is no way of blocking unauthorized IPs since there's no firewall installed on any server.
 
 + No monitoring.<br/>We have no way of knowing the status of each server since they're not being monitored.
+
